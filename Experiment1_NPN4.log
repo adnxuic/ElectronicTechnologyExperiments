@@ -1,0 +1,18 @@
+LTspice 24.1.9 for Windows
+Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\Experiment1_NPN4.net
+Start Time: Sun Sep 14 19:31:22 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node nc_01 is floating.
+
+.OP point found by inspection.
+.step 
+Total elapsed time: 0.089 seconds.
+
+Files loaded:
+G:\LTspiceFile\ElectronicTechnologyExperiments\Experiment1_NPN4.net
+C:\Users\34261\AppData\Local\LTspice\lib\cmp\standard.bjt
+
