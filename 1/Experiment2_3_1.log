@@ -1,0 +1,19 @@
+LTspice 24.1.9 for Windows
+Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\Experiment2_3_1.net
+Start Time: Sat Oct  4 20:29:56 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+E:\LTspiceFile\ElectronicTechnologyExperiments\Experiment2_3_1.net(16): WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton. Increasing period to 0.001.
+
+V2 N003 0 PULSE(0 1000m 0 0.5m 0.5m 0 0 10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.058 seconds.
+
+Files loaded:
+E:\LTspiceFile\ElectronicTechnologyExperiments\Experiment2_3_1.net
+C:\Users\34261\AppData\Local\LTspice\lib\cmp\standard.bjt
+

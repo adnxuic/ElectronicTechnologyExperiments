@@ -1,0 +1,19 @@
+LTspice 24.1.9 for Windows
+Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\Experiment3_1_1.net
+Start Time: Sun Oct  5 13:40:07 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node vo is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.062 seconds.
+
+Files loaded:
+E:\LTspiceFile\ElectronicTechnologyExperiments\Experiment3_1_1.net
+C:\Users\34261\AppData\Local\LTspice\lib\cmp\standard.bjt
+
+virms: RMS(V(Vi))=0.000992548623452 FROM 0 TO 0.01
+vorms: RMS(V(Vo))=0.0281720886668 FROM 0 TO 0.01

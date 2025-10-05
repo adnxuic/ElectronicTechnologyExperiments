@@ -1,0 +1,17 @@
+LTspice 24.1.9 for Windows
+Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\Experiment2_4_2.net
+Start Time: Sat Oct  4 22:37:16 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.430 seconds.
+
+Files loaded:
+E:\LTspiceFile\ElectronicTechnologyExperiments\Experiment2_4_2.net
+C:\Users\34261\AppData\Local\LTspice\lib\cmp\standard.bjt
+
+vsrms: RMS(V(Vo))=0.416088837786 FROM 0 TO 0.01
+virms: RMS(V(Vo2))=5.86726440839 FROM 0 TO 0.01

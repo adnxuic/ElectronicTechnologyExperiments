@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\Experiment1_NPN.net
+Start Time: Tue Sep 16 10:53:34 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+.step 
+Total elapsed time: 0.063 seconds.
+
+Files loaded:
+G:\LTspiceFile\ElectronicTechnologyExperiments\Experiment1_NPN.net
+C:\Users\34261\AppData\Local\LTspice\lib\cmp\standard.bjt
+
