@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
-Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RCSineWaveOscillator.net
-Start Time: Tue Oct 14 08:15:57 2025
+Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net
+Start Time: Thu Oct 16 08:26:24 2025
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -26,9 +26,9 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.398 seconds.
+Total elapsed time: 0.401 seconds.
 
 Files loaded:
-G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RCSineWaveOscillator.net
+G:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net
 C:\Users\34261\AppData\Local\LTspice\lib\sub\ADI1.lib
 

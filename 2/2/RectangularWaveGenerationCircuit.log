@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RectangularWaveGenerationCircuit.net
-Start Time: Sun Oct 12 19:46:48 2025
+Start Time: Tue Oct 14 09:45:40 2025
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -26,7 +26,7 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.444 seconds.
+Total elapsed time: 0.520 seconds.
 
 Files loaded:
 G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RectangularWaveGenerationCircuit.net
