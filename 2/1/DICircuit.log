@@ -1,8 +1,8 @@
 LTspice 24.1.9 for Windows
-Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net
-Start Time: Thu Oct 16 08:26:24 2025
+Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net
+Start Time: Sun Oct 19 21:24:43 2025
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 20
 tnom = 27
 temp = 27
 method = trap
@@ -26,9 +26,9 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.401 seconds.
+Total elapsed time: 0.349 seconds.
 
 Files loaded:
-G:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net
+E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net
 C:\Users\34261\AppData\Local\LTspice\lib\sub\ADI1.lib
 
