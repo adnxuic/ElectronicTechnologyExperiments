@@ -1,8 +1,8 @@
 LTspice 24.1.9 for Windows
-Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RectangularWaveGenerationCircuit.net
-Start Time: Tue Oct 14 09:45:40 2025
+Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RectangularWaveGenerationCircuit.net
+Start Time: Mon Oct 20 22:50:37 2025
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 20
 tnom = 27
 temp = 27
 method = trap
@@ -26,10 +26,10 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.520 seconds.
+Total elapsed time: 0.334 seconds.
 
 Files loaded:
-G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RectangularWaveGenerationCircuit.net
+E:\LTspiceFile\ElectronicTechnologyExperiments\2\2\RectangularWaveGenerationCircuit.net
 C:\Users\34261\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\34261\AppData\Local\LTspice\lib\sub\ADI1.lib
 

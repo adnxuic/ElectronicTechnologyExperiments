@@ -1,8 +1,8 @@
 LTspice 24.1.9 for Windows
-Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\TriangleAndSawtoothWaveGenerationCircuits.net
-Start Time: Fri Oct 17 22:12:35 2025
+Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\2\2\TriangleAndSawtoothWaveGenerationCircuits.net
+Start Time: Mon Oct 20 22:52:07 2025
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 20
 tnom = 27
 temp = 27
 method = trap
@@ -26,10 +26,10 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 4.157 seconds.
+Total elapsed time: 0.909 seconds.
 
 Files loaded:
-G:\LTspiceFile\ElectronicTechnologyExperiments\2\2\TriangleAndSawtoothWaveGenerationCircuits.net
+E:\LTspiceFile\ElectronicTechnologyExperiments\2\2\TriangleAndSawtoothWaveGenerationCircuits.net
 C:\Users\34261\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\34261\AppData\Local\LTspice\lib\sub\ADI1.lib
 
