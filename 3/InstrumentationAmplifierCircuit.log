@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit.net
-Start Time: Sat Oct 25 11:35:52 2025
+Start Time: Sun Oct 26 14:37:17 2025
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -26,7 +26,7 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.511 seconds.
+Total elapsed time: 0.995 seconds.
 
 Files loaded:
 G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit.net
@@ -34,4 +34,4 @@ C:\Users\34261\AppData\Local\LTspice\lib\sub\ADI1.lib
 
 va1_val: V(VA1)=2.49999459356e-07
 va2_val: V(VA2)=2.49999459356e-07
-vo_val: V(Vo)=1.65869230785e-13
+vo_val: V(Vo)=1.65819208408e-13

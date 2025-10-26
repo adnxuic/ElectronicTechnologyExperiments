@@ -1,0 +1,6 @@
+G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_dif_com_input.net(22): Expected expression or number here.
+.dc param mode 0 2 1
+         ^
+G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_dif_com_input.net(22): Expected device instantiation or directive here.
+.dc param mode 0 2 1
+^^^^^^^^^^^^^^^^^^^^
