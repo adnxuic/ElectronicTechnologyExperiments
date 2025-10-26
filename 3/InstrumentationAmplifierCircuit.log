@@ -1,37 +1,44 @@
 LTspice 24.1.9 for Windows
 Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit.net
-Start Time: Sun Oct 26 14:37:17 2025
+Start Time: Sun Oct 26 16:33:41 2025
 solver = Normal
 Maximum thread count: 12
 tnom = 27
 temp = 27
 method = trap
-Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
-Starting Gmin stepping
-Gmin = 10
-Gmin = 1.07374
-Gmin = 0.115292
-Gmin = 0.0123794
-Gmin = 0.00132923
-Gmin = 0.000142725
-Gmin = 1.5325e-05
-Gmin = 1.6455e-06
-Gmin = 1.76685e-07
-Gmin = 1.89714e-08
-Gmin = 2.03704e-09
-Gmin = 2.18725e-10
-Gmin = 2.34854e-11
-Gmin = 2.52173e-12
-Gmin = 2.70769e-13
-Gmin = 0
-Gmin stepping succeeded in finding the operating point.
-
-Total elapsed time: 0.995 seconds.
+Direct Newton iteration for .op point succeeded.
+.step rg=200
+.step rg=1000
+.step rg=2000
+.step rg=10000
+.step rg=20000
+Total elapsed time: 2.298 seconds.
 
 Files loaded:
 G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit.net
-C:\Users\34261\AppData\Local\LTspice\lib\sub\ADI1.lib
+C:\Users\34261\AppData\Local\LTspice\lib\sub\ADA4077.lib
 
-va1_val: V(VA1)=2.49999459356e-07
-va2_val: V(VA2)=2.49999459356e-07
-vo_val: V(Vo)=1.65819208408e-13
+
+Measurement: va1_val
+  step	AVG(V(VA1))	FROM	TO
+     1	5.16501404491e-06	0	0.1
+     2	5.16489853908e-06	0	0.1
+     3	5.16488444191e-06	0	0.1
+     4	5.16487261848e-06	0	0.1
+     5	5.16487125424e-06	0	0.1
+
+Measurement: va2_val
+  step	AVG(V(VA2))	FROM	TO
+     1	5.1647230066e-06	0	0.1
+     2	5.16483828505e-06	0	0.1
+     3	5.1648526096e-06	0	0.1
+     4	5.16486397828e-06	0	0.1
+     5	5.16486579727e-06	0	0.1
+
+Measurement: vo_val
+  step	AVG(V(Vo))	FROM	TO
+     1	2.02090068342e-05	0	0.1
+     2	2.02092378458e-05	0	0.1
+     3	2.02092669497e-05	0	0.1
+     4	2.02092887776e-05	0	0.1
+     5	2.02092924155e-05	0	0.1

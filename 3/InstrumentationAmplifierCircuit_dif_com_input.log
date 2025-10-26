@@ -1,6 +1,58 @@
-G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_dif_com_input.net(22): Expected expression or number here.
-.dc param mode 0 2 1
-         ^
-G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_dif_com_input.net(22): Expected device instantiation or directive here.
-.dc param mode 0 2 1
-^^^^^^^^^^^^^^^^^^^^
+LTspice 24.1.9 for Windows
+Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_dif_com_input.net
+Start Time: Sun Oct 26 16:34:46 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+.step rg=200 run=1
+.step rg=1000 run=1
+.step rg=2000 run=1
+.step rg=10000 run=1
+.step rg=20000 run=1
+.step rg=200 run=2
+.step rg=1000 run=2
+.step rg=2000 run=2
+.step rg=10000 run=2
+.step rg=20000 run=2
+.step rg=200 run=3
+.step rg=1000 run=3
+.step rg=2000 run=3
+.step rg=10000 run=3
+.step rg=20000 run=3
+.step rg=200 run=4
+.step rg=1000 run=4
+.step rg=2000 run=4
+.step rg=10000 run=4
+.step rg=20000 run=4
+Total elapsed time: 10.431 seconds.
+
+Files loaded:
+G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_dif_com_input.net
+C:\Users\34261\AppData\Local\LTspice\lib\sub\ADA4077.lib
+
+
+Measurement: v0_out
+  step	AVG(V(Vo))	FROM	TO
+     1	-10.0994739532	0	0.001
+     2	-2.09995675087	0	0.001
+     3	-1.09997308254	0	0.001
+     4	-0.299979150295	0	0.001
+     5	-0.19997946918	0	0.001
+     6	10.0995140076	0	0.001
+     7	2.09999728203	0	0.001
+     8	1.10001349449	0	0.001
+     9	0.300019562244	0	0.001
+    10	0.200019881129	0	0.001
+    11	2.02405190066e-05	0	0.001
+    12	2.02407509278e-05	0	0.001
+    13	2.02407791378e-05	0	0.001
+    14	2.0240802769e-05	0	0.001
+    15	2.02408046037e-05	0	0.001
+    16	2.01774937837e-05	0	0.001
+    17	2.01777247639e-05	0	0.001
+    18	2.01777529583e-05	0	0.001
+    19	2.01777765894e-05	0	0.001
+    20	2.01777784241e-05	0	0.001
