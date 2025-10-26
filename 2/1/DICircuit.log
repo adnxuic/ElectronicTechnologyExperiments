@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net
-Start Time: Sun Oct 19 21:24:43 2025
+Start Time: Mon Oct 20 20:32:41 2025
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -26,7 +26,7 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.349 seconds.
+Total elapsed time: 0.365 seconds.
 
 Files loaded:
 E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\DICircuit.net

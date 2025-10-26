@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\InvertingSummingAmplifier.net
-Start Time: Sun Oct 19 17:05:55 2025
+Start Time: Mon Oct 20 21:10:08 2025
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -31,7 +31,7 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 .step 
-Total elapsed time: 0.209 seconds.
+Total elapsed time: 0.207 seconds.
 
 Files loaded:
 E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\InvertingSummingAmplifier.net

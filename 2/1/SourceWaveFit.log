@@ -1,13 +1,13 @@
 LTspice 24.1.9 for Windows
 Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\SourceWaveFit.net
-Start Time: Sun Oct 19 23:30:46 2025
+Start Time: Mon Oct 20 21:42:11 2025
 solver = Normal
 Maximum thread count: 20
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.094 seconds.
+Total elapsed time: 0.080 seconds.
 
 Files loaded:
 E:\LTspiceFile\ElectronicTechnologyExperiments\2\1\SourceWaveFit.net
