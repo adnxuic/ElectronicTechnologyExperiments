@@ -1,18 +1,18 @@
 LTspice 24.1.9 for Windows
-Circuit: G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_single_input.net
-Start Time: Sun Oct 26 16:52:25 2025
+Circuit: E:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_single_input.net
+Start Time: Mon Oct 27 11:31:26 2025
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 20
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration for .op point succeeded.
 .step vin=-0.1
 .step vin=0.1
-Total elapsed time: 0.807 seconds.
+Total elapsed time: 0.358 seconds.
 
 Files loaded:
-G:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_single_input.net
+E:\LTspiceFile\ElectronicTechnologyExperiments\3\InstrumentationAmplifierCircuit_single_input.net
 C:\Users\34261\AppData\Local\LTspice\lib\sub\ADA4077.lib
 
 
